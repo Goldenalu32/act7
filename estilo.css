@@ -1,0 +1,92 @@
+header{
+    text-align: center;
+    background-color: black;
+}
+
+ul{
+    text-align: center;
+}
+
+#logo{
+    
+}
+
+
+
+body{
+    background-color: yellow;
+
+}
+
+li{
+    display: inline-block;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#Entrantes{
+    text-align: center;
+}
+
+#Principal{
+    text-align: center;
+}
+
+#postres{
+    text-align: center;
+}
+
+#bebidas{
+    text-align: center;
+}
+
+#club{
+    display: inline;
+}
+
+.plato{
+    display: inline-block;
+    margin: 100px;
+}
+
+.plato2{
+    display: inline-block;
+    margin: 100px;
+   
+}
+
+.plato3{
+    display: inline-block;
+    margin: 100px;
+}
+
+.plato4{
+    display: inline-block;
+    margin: 100px;
+}
+
+.plato5{
+    display: inline-block;
+    margin: 100px;
+}
+
+.plato6{
+    display: inline-block;
+    margin: 100px;
+}
+
+.plato7{
+    display: inline-block;
+    margin: 100px;
+}
+
+.plato8{
+    display: inline-block;
+    margin: 100px;
+}
+
+.plato9{
+    display: inline-block;
+    margin: 100px;
+}
